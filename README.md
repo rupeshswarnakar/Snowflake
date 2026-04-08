@@ -1,7 +1,4 @@
-## 📄 Assignment Document
-[View Full Assignment PDF](./Snowflake_Assignment.pdf)
-
-# Snowflake Assignment
+# Snowflake Assignment [View Full Assignment PDF](./Snowflake_Assignment.pdf)
 
 ## Overview
 This project demonstrates core Snowflake data loading workflows using both internal and external stages. The assignment includes two parts:
