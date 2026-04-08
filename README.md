@@ -1,3 +1,6 @@
+## 📄 Assignment Document
+[View Full Assignment PDF](./Snowflake_Assignment.pdf)
+
 # Snowflake Assignment
 
 ## Overview
